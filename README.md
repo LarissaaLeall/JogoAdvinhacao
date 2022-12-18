@@ -4,7 +4,7 @@
 
 Meu primeiro projeto utilizando o JavaScript, desenvolvido com a ajuda do professor Mayk no curso Explorer da Rocketseat.
 
-[🔗clique aqui para acessar](https://larissaaleall.github.io/Sorvete/)
+[🔗clique aqui para acessar](https://larissaaleall.github.io/JogoAdvinhacao/)
 
 ## Tecnologias 
 
